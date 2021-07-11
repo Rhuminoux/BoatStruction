@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 2c16fba09c58b3c4b8482692c2606471
+timeCreated: 1520682316
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: cannon
+    100002: //RootNode
+    100004: CannonPivot
+    100006: frame
+    100008: wheel
+    100010: wheel001
+    100012: wheel002
+    100014: wheel003
+    400000: cannon
+    400002: //RootNode
+    400004: CannonPivot
+    400006: frame
+    400008: wheel
+    400010: wheel001
+    400012: wheel002
+    400014: wheel003
+    2100000: 02 - Default
+    2100002: 'Material #26'
+    2100004: 01 - Default
+    2300000: cannon
+    2300002: frame
+    2300004: wheel
+    2300006: wheel001
+    2300008: wheel002
+    2300010: wheel003
+    3300000: cannon
+    3300002: frame
+    3300004: wheel
+    3300006: wheel001
+    3300008: wheel002
+    3300010: wheel003
+    4300000: frame
+    4300002: wheel
+    4300004: wheel001
+    4300006: wheel002
+    4300008: wheel003
+    4300010: cannon
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MB-FloorBoards
+    second: {fileID: 2800000, guid: bd46aaaa670c7a74993d3de9dd9a4bdc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MB-Metal
+    second: {fileID: 2800000, guid: 624dcee3b0faffe4890459e05f9c7811, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MT-Metal
+    second: {fileID: 2800000, guid: 9aa8c136905661f40a11b47d3b714f5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MT-MetalBUMP
+    second: {fileID: 2800000, guid: e58c86802910fce4d8116439b8a632d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MT-PlanksBUMP
+    second: {fileID: 2800000, guid: d0fb65a0ffb28604696f4b30a4b77fec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_1
+    second: {fileID: 2800000, guid: 4a7d239ffa851b24489ba68de60eb6e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: images652O1TPI
+    second: {fileID: 2800000, guid: 2103cfff143a7f9448b178bfa75c65d8, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

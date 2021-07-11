@@ -1,0 +1,39 @@
+Griffy Game design and 3D Models
+© 2018, Tony Hart
+===================
+
+Thanks for your download(s)! :)
+Add a First Person Controller with the tag"player"
+Add particle systems to the fields:Explosion,Fireexplosion and fuseparticles.
+Please note the scripts:
+
+Targetscrpt:
+Attached to a rigidbody so object can be destoyed.
+fields to populate:
+Explosion prefab: explosion prefab.
+exsound: sound for explosion.
+
+New_Cannon_Script:
+This does all the work.
+fields to populate:
+Target Position:spawn point for the cannon ball.
+explosion: particle system for explosion.
+fireexplosion:particle system for explosion.
+fuseparticles: particle system for fuse.
+fusepoint: spawn point for fuse particles.
+Cannon Ball:prefab for cannon ball.
+load sound: sound for loading.
+firesound: sound for fireing.
+
+
+
+Import standard assets charactor and particals.
+
+BUG: there is an intermitant bug when altering the angle of the cannon during game as firepower does not work sometimes.
+please let me no the fix.
+
+
+Please feel free to use this model for your games.
+
+Good gaming Griffy.
+griffy@gmx.com
